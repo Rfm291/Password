@@ -35,4 +35,4 @@ THEN the password is either displayed in an alert or written to the page
 ```
 
 ## Links
-<li><a href="Password Generator">Password Generator</li>
+<li><a href="https://rfm291.github.io/Password/">Password Generator</li>
