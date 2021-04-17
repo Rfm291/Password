@@ -35,4 +35,4 @@ THEN the password is either displayed in an alert or written to the page
 ```
 
 ## Links
-<li>Password Generator</li>
+<li><a href="Password Generator">Password Generator</li>

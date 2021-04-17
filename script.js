@@ -94,10 +94,10 @@ function getUserOptions() {
      prompt("How long would you like your password to be?")
    );
   
-   lowerCaseChosen = confirm("Would you like to lower case letters in your password?");
-   upperCaseChosen = confirm("Would you like to upper case letters in your password?");
-   numericChosen = confirm("Would you like to numeric characters in your password?");
-   specialChosen = confirm("Would you like to special characters in your password?");
+   lowerCaseChosen = confirm("Would you like lower case letters in your password?");
+   upperCaseChosen = confirm("Would you like upper case letters in your password?");
+   numericChosen = confirm("Would you like numeric characters in your password?");
+   specialChosen = confirm("Would you like special characters in your password?");
    
    // validation
    if (isNaN(length) === true) {
